@@ -1,0 +1,31 @@
+{
+  "unit": {
+    "save": {
+      "no_unit_name_message": "Tên của đơn vị tính là thông tin bắt buộc và không được để trống!",
+      "existed_unit_name_message": "Tên của đơn vị tính đã bị trùng!",
+      "success_message": "Tạo đơn vị tính mới thành công!",
+      "failed_message": "Tạo đơn vị tính mới thất bại!"
+    },
+    "update": {
+      "no_unit_message": "Đơn vị tính không tồn tại trong hệ thống!",
+      "no_unit_name_message": "Tên của đơn vị tính là thông tin bắt buộc và không được để trống!",
+      "existed_unit_name_message": "Tên của đơn vị tính đã bị trùng!",
+      "success_message": "Cập nhật thông tin chi tiết của đơn vị tính thành công!",
+      "failed_message": "Cập nhật thông tin chi tiết của đơn vị tính thất bại!"
+    },
+    "get_all": {
+      "success_message": "Lấy danh sách tất cả các đơn vị tính thành công!"
+    },
+    "get_all_with_pagination": {
+      "success_message": "Lấy danh sách tất cả các đơn vị tính thành công!"
+    },
+    "get": {
+      "no_unit_message": "Đơn vị tính không tồn tại trong hệ thống!",
+      "success_message": "Lấy thông tin chi tiết của đơn vị tính thành công!"
+    },
+    "delete": {
+      "no_unit_message": "Đơn vị tính không tồn tại trong hệ thống!",
+      "success_message": "Xóa đơn vị tính khỏi hệ thống thành công!"
+    }
+  }
+}

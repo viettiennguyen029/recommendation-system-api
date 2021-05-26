@@ -1,0 +1,31 @@
+{
+  "unit": {
+    "save": {
+      "no_unit_name_message": "Unit name must not be null!",
+      "existed_unit_name_message": "Unit name is already existed!",
+      "success_message": "A new unit is created successfully!",
+      "failed_message": "Failed to create a new unit!"
+    },
+    "update": {
+      "no_unit_message": "Unit ID does not exist!",
+      "no_unit_name_message": "Unit name must not be null!",
+      "existed_unit_name_message": "Unit name is already existed!",
+      "success_message": "Successfully updated unit information!",
+      "failed_message": "Can not update unit's information!"
+    },
+    "get_all": {
+      "success_message": "Sucessfully getting information of all units"
+    },
+    "get_all_with_pagination": {
+      "success_message": "Sucessfully getting information of all units"
+    },
+    "get": {
+      "no_unit_message": "Unit does not exist!",
+      "success_message": "Sucessfully getting information of unit"
+    },
+    "delete": {
+      "no_unit_message": "Unit ID does not exist!",
+      "success_message": "Successfully deleted the unit!"
+    }
+  }
+}
